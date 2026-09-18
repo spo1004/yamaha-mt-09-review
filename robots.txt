@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://spo1004.github.io/yamaha-mt-09-review/sitemap.xml
